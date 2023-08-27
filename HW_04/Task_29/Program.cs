@@ -15,8 +15,6 @@ void Printarray(int[] A)
     {
         System.Console.Write($"{A[i]} ");
     }
-    System.Console.WriteLine();
 }
 int[] arr = Makearray(); 
 Printarray(arr); 
-
