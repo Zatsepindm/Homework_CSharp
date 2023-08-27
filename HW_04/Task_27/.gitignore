@@ -1,4 +1,5 @@
 bin
 obj
 Task_27.csproj
+.gitignore
 
