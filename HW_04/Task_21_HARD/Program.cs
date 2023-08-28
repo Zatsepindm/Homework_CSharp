@@ -9,7 +9,6 @@ int[] CoorInputA(int A)
     {
         Console.WriteLine($"Введите {i + 1}-ю координату токи А");
         array[i] = Convert.ToInt32(Console.ReadLine());
-        // Console.WriteLine(array[i]);
     }
     return array;
 }
@@ -20,7 +19,6 @@ int[] CoorInputB(int B)
     {
         Console.WriteLine($"Введите {i + 1}-ю координату токи B");
         array[i] = Convert.ToInt32(Console.ReadLine());
-        // Console.WriteLine(array[i]);
     }
     return array;
 }
